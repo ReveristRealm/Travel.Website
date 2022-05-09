@@ -1,0 +1,43 @@
+body{
+  background-color: #184E77;
+}
+.mapofmaldives{
+float: left;
+width: 200px;
+height: 180px;
+}
+.maldives {
+float: right; 
+width: 200px;
+height:180px;
+}
+
+.line{
+  margin-top: 170px;
+}
+.Article{
+  background-color: #52B69A;
+  width: 90%;
+  height: 650px;
+  margin: auto;
+  padding: 20px;
+  border: 2px;
+  border-style: solid;
+  border-color:white;
+}
+
+.pi{
+  Float:left;
+}
+
+.pii{
+  float: right;
+}
+.piii{
+  display:inline-block;
+}
+.Buttons{
+  text-align: center;
+  margin:20px;
+  font-size: 30px;
+}

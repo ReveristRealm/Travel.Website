@@ -1,0 +1,21 @@
+body{
+  background-color:#184E77;
+  text-align: center;
+}
+.pi{
+  display: inline-block;
+}
+.pii{
+  width:300px;
+  height: 200px;
+  background-color: #D9ED92;
+  border: 3px;
+  border-style:solid;
+  border-color:black;
+  display: inline-block;
+}
+.Buttons{
+  text-align: center;
+  margin:20px;
+  font-size: 30px;
+}
